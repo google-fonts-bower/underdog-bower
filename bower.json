@@ -1,0 +1,17 @@
+{
+    "name": "underdog-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/underdog-bower.git"
+    },
+    "description": "Underdog font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
